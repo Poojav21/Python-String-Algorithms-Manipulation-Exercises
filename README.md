@@ -61,8 +61,3 @@ This repository contains essential string manipulation exercises implemented usi
 This codebase demonstrates how to write clean, easily-readable Python solutions as initial algorithmic baselines for technical interviews.
 """
 
-# Save the string content into a README.md file in the current directory
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md successfully generated! You can download it from the left file explorer panel.")
